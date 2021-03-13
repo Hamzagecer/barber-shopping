@@ -3,17 +3,17 @@
     padding: 0;
 }
 #banner{
-    background:linear-gradient(rgba(0,0,0,0.5),#009688), url(./img/mus.jpg);
+    background:linear-gradient(rgba(0,0,0,0.5),#009688), url(./img/banner.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
 }
 .logo{
-    font-size: 60px;
+    width: 140px;
     position: absolute;
     top: 4%;
     left: 10%;
-    color: white;
+  
 }
 .banner-text{
     text-align: center;
@@ -379,9 +379,9 @@ hr{
 }
 
 .footer-img{
-    border-radius: 50%;
-    max-width: 520px;
-    opacity: 0.2;
+   
+    max-width: 370px;
+    opacity: 0.1;
     position: absolute;
     left: 50%;
     top:35%;
